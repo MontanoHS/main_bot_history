@@ -3,7 +3,7 @@ version: "3.8"
 services:
   telegram_bot:
     build: .
-    container_name: my_telegram_bot
+    container_name: my_telegram_bot_main
     restart: unless-stopped
     environment:
       - BOT_TOKEN=8426780934:AAH3B12akGlHF2G8v-JMCyGYK8Sx0Mn65f4

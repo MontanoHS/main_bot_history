@@ -17,7 +17,7 @@ from aiogram.utils import executor
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота
-BOT_TOKEN = "8426780934:AAH3B12akGlHF2G8v-JMCyGYK8Sx0Mn65f4"
+BOT_TOKEN = "8471353948:AAGvvGMutCXOvRcu5q7xFpO7OdoBg-L8gRY"
 
 # API ключ Mistral AI
 MISTRAL_API_KEY = "DEjwzJreL18S35aAKXlUPac0zfqhUfnL"
